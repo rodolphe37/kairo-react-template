@@ -48,7 +48,7 @@ Full responsive for all mobile phones and tablets
 - Intro section.
 - About section.
 - Features section.
-- Pricing section with  images gallery.
+- Pricing section.
 - Download section.
 
 ---
